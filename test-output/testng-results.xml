@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="appium_project" duration-ms="264304" started-at="2020-09-26T14:35:54 IST" finished-at="2020-09-26T14:40:18 IST">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="264304" started-at="2020-09-26T14:35:54 IST" finished-at="2020-09-26T14:40:18 IST">
+      <class name="appium_project.activity_2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:appium_project.activity_2@1f554b06]" name="beforeClass" is-config="true" duration-ms="16498" started-at="2020-09-26T14:36:36 IST" finished-at="2020-09-26T14:36:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="google_keep()[pri:0, instance:appium_project.activity_2@1f554b06]" name="google_keep" duration-ms="10522" started-at="2020-09-26T14:36:52 IST" finished-at="2020-09-26T14:37:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_keep -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:appium_project.activity_2@1f554b06]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-09-26T14:37:03 IST" finished-at="2020-09-26T14:37:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- appium_project.activity_2 -->
+      <class name="appium_project.activity_3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:appium_project.activity_3@694e1548]" name="beforeClass" is-config="true" duration-ms="17423" started-at="2020-09-26T14:37:03 IST" finished-at="2020-09-26T14:37:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="google_keep_reminder()[pri:0, instance:appium_project.activity_3@694e1548]" name="google_keep_reminder" duration-ms="16039" started-at="2020-09-26T14:37:20 IST" finished-at="2020-09-26T14:37:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_keep_reminder -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:appium_project.activity_3@694e1548]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-09-26T14:37:36 IST" finished-at="2020-09-26T14:37:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- appium_project.activity_3 -->
+      <class name="appium_project.activity_1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:appium_project.activity_1@614ddd49]" name="beforeClass" is-config="true" duration-ms="17647" started-at="2020-09-26T14:35:54 IST" finished-at="2020-09-26T14:36:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="google_task()[pri:0, instance:appium_project.activity_1@614ddd49]" name="google_task" duration-ms="23959" started-at="2020-09-26T14:36:12 IST" finished-at="2020-09-26T14:36:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_task -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:appium_project.activity_1@614ddd49]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-09-26T14:36:35 IST" finished-at="2020-09-26T14:36:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- appium_project.activity_1 -->
+      <class name="appium_project.activity_6">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:appium_project.activity_6@26aa12dd]" name="beforeClass" is-config="true" duration-ms="15825" started-at="2020-09-26T14:39:18 IST" finished-at="2020-09-26T14:39:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="google_popup()[pri:0, instance:appium_project.activity_6@26aa12dd]" name="google_popup" duration-ms="44476" started-at="2020-09-26T14:39:34 IST" finished-at="2020-09-26T14:40:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_popup -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:appium_project.activity_6@26aa12dd]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-09-26T14:40:18 IST" finished-at="2020-09-26T14:40:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- appium_project.activity_6 -->
+      <class name="appium_project.activity_4">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:appium_project.activity_4@1c3a4799]" name="beforeClass" is-config="true" duration-ms="19019" started-at="2020-09-26T14:37:36 IST" finished-at="2020-09-26T14:37:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="google_todolist()[pri:0, instance:appium_project.activity_4@1c3a4799]" name="google_todolist" duration-ms="32461" started-at="2020-09-26T14:37:55 IST" finished-at="2020-09-26T14:38:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_todolist -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:appium_project.activity_4@1c3a4799]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-09-26T14:38:27 IST" finished-at="2020-09-26T14:38:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- appium_project.activity_4 -->
+      <class name="appium_project.activity_5">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:appium_project.activity_5@131276c2]" name="beforeClass" is-config="true" duration-ms="16091" started-at="2020-09-26T14:38:27 IST" finished-at="2020-09-26T14:38:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="google_login()[pri:0, instance:appium_project.activity_5@131276c2]" name="google_login" duration-ms="34203" started-at="2020-09-26T14:38:44 IST" finished-at="2020-09-26T14:39:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_login -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:appium_project.activity_5@131276c2]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-09-26T14:39:18 IST" finished-at="2020-09-26T14:39:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- appium_project.activity_5 -->
+    </test> <!-- test -->
+  </suite> <!-- appium_project -->
+</testng-results>
